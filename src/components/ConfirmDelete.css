@@ -1,0 +1,21 @@
+.deleteConfirm {
+    width: 300px;
+    height: 150px;
+    position: absolute;
+   
+    top: 300px;
+    left: 300px;
+    text-align: center;
+    
+    background-color: beige;
+}
+
+.deleteConfirm  p {
+    margin-top: 40px;
+}
+
+.deleteConfirm button {
+    margin: 16px;
+    width: 40px;
+    height: 20px;
+}
